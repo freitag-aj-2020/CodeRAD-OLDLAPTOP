@@ -335,7 +335,10 @@ footer .footer-top {
   padding: var(--size-100) 0;
 }
 
-footer .footer-col {justify-self: center;}
+footer .footer-col {
+  justify-self: center;
+  max-width: 250px;
+}
 
 .footer-top h5 {
   color: var(--white);
