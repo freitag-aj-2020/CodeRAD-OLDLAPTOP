@@ -23,9 +23,10 @@
   --size-50: 3.125rem;
   --size-100: 6.25rem;
   --size-150: 9.375rem;
+
 }
 
-
+html {scroll-behavior: smooth;}
 
 body {
   font-family: "Open Sans", sans-serif;
